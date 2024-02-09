@@ -8,7 +8,7 @@ Welcome to the T&P Food Restaurant Digital Signage Project! This freelance journ
 
 ### Client Information 🌐
 
-- **Client Name:** [Client's Name] 👨‍🍳
+- **Client Name:** (Confidential) 👨‍🍳
 - **Restaurant Name:** T&P Food 🍲
 - **Location:** United States 🇺🇸
 
@@ -64,10 +64,10 @@ Follow these steps to set up and manage the digital signage at T&P Food:
 
 If you have any questions, feedback, or require support, please contact:
 
-- [Your Name] 🤝
-- [Your Email] 📧
-- [Your Phone Number] 📞
+- Areeb Ahmed 🤝
+- areebmobile@gmail.com 📧
+- @emareeeb on instagram 🥰
 
-We appreciate your commitment to making T&P Food's digital signage an engaging experience for customers!
+I appreciate your commitment to making T&P Food's digital signage an engaging experience for customers!
 
 Happy designing! 🎉🎨📲
