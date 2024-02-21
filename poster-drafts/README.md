@@ -8,7 +8,7 @@ Welcome to the T&P Food Restaurant Digital Signage Project! This freelance journ
 
 ### Client Information 🌐
 
-- **Client Name:** [Client's Name] 👨‍🍳
+- **Client Name:** [Confidential] 👨‍🍳
 - **Restaurant Name:** T&P Food 🍲
 - **Location:** United States 🇺🇸
 
